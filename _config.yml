@@ -50,3 +50,4 @@ defaults:
       type: "posts"
     values:
       layout: "default"
+theme: vincentchan/mickey
