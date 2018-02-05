@@ -10,8 +10,8 @@ relative_permalinks: true
 # Setup
 timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
-name:				         site name
-title:               site title
+name:				         Pablo & Liza
+title:               Pablo & Liza
 tagline:             'tagline'
 description:         'description'
 url:                 site url
@@ -50,3 +50,4 @@ defaults:
       type: "posts"
     values:
       layout: "default"
+remote_theme: "vincentchan/mickey"
