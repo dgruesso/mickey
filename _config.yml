@@ -9,8 +9,8 @@ permalink:           /:title
 # Setup
 timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
-name:				         Pablo & Liza
-title:               Pablo & Liza
+name:				         
+title:               
 tagline:             'tagline'
 description:         'description'
 url:                 site url
